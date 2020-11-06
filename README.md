@@ -1,5 +1,7 @@
 # AWFUL-Programming-Language
 
+This readme is a work-in-progress
+
 Syntax:
 
 Conditional statements and logical operators:
